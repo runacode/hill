@@ -1,7 +1,7 @@
-<?php $company = "PRESTIGE IMPORT AUTO";
-$phone = "(305) 261-8083";
-	$address1 = "7013 SW 46TH ST";
-	$address2 = "MIAMI, FL 33155";
+<?php $company = "HILLSIDE AUTO SALES";
+$phone = "(352) 567-3374";
+	$address1 = "14352 GRAHAM ST";
+	$address2 = "DADE CITY, FL 33523";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
